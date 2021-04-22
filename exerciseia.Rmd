@@ -22,4 +22,5 @@ output:
     - \usepackage{verbatim}
 ---
 
+This is the .Rmd file for Tutorial 7 of Reproducible and Collaborative Practices. 
 
